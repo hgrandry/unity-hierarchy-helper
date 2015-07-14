@@ -1,5 +1,4 @@
-
-Shortcuts for Unity Hierarchy window
+# Shortcuts for Unity Hierarchy window
 
 CTRL + E to enable / disable a gameobject
 
