@@ -2,7 +2,7 @@
 
 CTRL + E to enable / disable a gameobject
 
-Change gameobject scope in the hierarchy:
+* Change gameobject scope in the hierarchy:
 
 ALT + left to move a gameobject to its parent level
 ALT + right to move a gameobject in its direct neighbor scope (as child)
